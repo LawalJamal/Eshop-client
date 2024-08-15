@@ -154,7 +154,7 @@ export default function Home() {
             text={
               <>
                 <span className="fw-bold text-black me-2">
-                  The Footsy difference.
+                  The LadyLine difference.
                 </span>
                 Even more reasons to shop with us.
               </>
